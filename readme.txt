@@ -9,7 +9,7 @@ The Strange News Feed plugin has been replaced. Please search for the Entertainm
 
 == Description ==
 
-The Strange News Feed plugin will pull strange news stories and odd products from gloomwire.com. The content can be displayed in a widget or on a post/page using short code.
+~~The Strange News Feed plugin will pull strange news stories and odd products from gloomwire.com. The content can be displayed in a widget or on a post/page using short code.~~
 
 This plugin is outdated and may not work anymore, please see our newer version by searching Entertainment News on WordPress. If you want to see the page or manual install see the <a href="http://wordpress.org/extend/plugins/entertainment-news/">Entertainment Plugin Page</a>
 
